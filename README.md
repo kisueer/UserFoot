@@ -23,7 +23,7 @@ UserFoot is a simple yet powerful OSINT tool that checks the existence of a user
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/userfoot.git
+git clone https://github.com/kisueer/UserFoot.git
 cd userfoot
 ```
 
