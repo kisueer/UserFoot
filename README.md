@@ -17,7 +17,7 @@ UserFoot is a simple yet powerful OSINT tool that checks the existence of a user
 
 ## Screenshot
 
-![UserFoot Screenshot](screenshot.png)
+![UserFoot Screenshot](userfoot.png)
 
 ## Installation
 
